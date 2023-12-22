@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Patrick and I'm hear to learn.
-I'm a microbiologist
+I'm a microbiologist.
 
 - 🔭 I’m currently working on genomic data and image analysis
 - 🌱 I’m currently learning Rust and trying out CoPilot
