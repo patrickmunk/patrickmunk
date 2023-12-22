@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Patrick and I'm hear to learn.
 <!--
 **patrickmunk/patrickmunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
